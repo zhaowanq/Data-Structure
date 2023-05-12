@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "linkqueue.c": "cpp",
+    "scanf.c": "cpp",
+    "stdio.h": "c"
+  }
+}
